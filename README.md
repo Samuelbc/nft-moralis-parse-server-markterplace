@@ -1,2 +1,2 @@
 # nft-moralis-parse-server-markterplace
-project of ntf marketplace using old moralis version and parse server
+project of ntf marketplace using old moralis version and parse server and PatrickAlphaC tutorial on solidy
